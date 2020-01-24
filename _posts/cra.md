@@ -2,6 +2,7 @@
 layout: page
 title:  "cra"
 header: Canadian Rheumatology Association design work
+brief-header: CRA design work
 permalink: /cra/
 preview-image: "../img/cra-500px.jpg"
 ---

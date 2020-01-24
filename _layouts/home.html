@@ -10,18 +10,11 @@
     </header>
     
     <div class="work-grid">
-        <div class="grid-item"><a href="books.html"><img src="img/books-500px.jpg"></a></div>
-        <div class="grid-item"><a href="#"><img src="img/chinese-500px.jpg"></a></div>
-        <div class="grid-item"><a href="cra.html"><img src="img/cra-500.jpg"></a></div>
-        <div class="grid-item"><a href="#"><img src="img/endangered-500px.jpg"></a></div>
-        <div class="grid-item"><a href="#"><img src="img/icecream-500px.jpg"></a></div>
-        <div class="grid-item"><a href="#"><img src="img/globe-500px"></a></div>
-        <div class="grid-item"><a href="#"><img src="img/shadowbox-500px.jpg"></a></div>
-        <div class="grid-item"><a href="#"><img src="img/singapore-500px.jpg"></a></div>
-        <div class="grid-item"><a href="#"><img src="img/sunrise-500px.jpg"></a></div>
-        <div class="grid-item"><a href="#"><img src="img/toronto1-500px.jpg"></a></div>
+        {% for post in site.posts reversed %}
+        <div class="grid-item"><a href="{{ site.baseurl }}{{ post.title }}"><img src="{{post.preview-image}}"></a></div>
+        {% endfor %}
     </div>
     
 </body>
 
-</html>
+</html>-
