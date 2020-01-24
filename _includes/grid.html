@@ -1,0 +1,5 @@
+<div class="work-grid">
+    {% for post in site.posts reversed %}
+        <div class="grid-item"><a href="{{ site.baseurl }}{{ post.title }}"><img src="{{post.preview-image}}"></a></div>
+    {% endfor %}
+</div>
