@@ -1,0 +1,169 @@
+html { 
+}
+
+body {
+    margin: 0px;
+    font-family: 'Barlow';
+    background-color: #222222;
+}
+
+.main-page {
+    background: url("../img/background.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    background-color: #222222;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.header-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    margin: auto;
+    width: 60vw;
+    padding: 18vh 0 5vh 0;
+    text-align: center;
+}
+
+
+
+.header-item {
+    margin: auto;
+    font-size: 1.8em;
+    font-family: 'Barlow', sans-serif;
+    background-image: url("/img/background.png");
+}
+
+.header-item a {
+    color: #fb8b76;
+}
+
+.header-title {
+    font-size: 2.1em;
+    font-family: 'Fugaz One', 'Barlow', cursive;
+}
+
+.header-title a {
+    color: #f9eab6;
+}
+
+
+
+.work-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    margin: none;
+    width: 60vw;
+    height: 24vw;
+    margin: auto;
+    border: #f9eab6 2px solid;
+    padding: 20px;
+}
+
+.grid-item {
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    
+}
+
+.grid-item img {
+    width: 100%;
+    display: block;
+    object-fit: cover;
+    
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.layout {
+    display: flex;
+    flex-direction: row;
+    width: 85vw;
+    margin: auto;
+    height: 100%;
+}
+
+.sidebar {
+    position:;
+    text-align: right;
+    position: fixed;
+    padding: 0px 20px 0px 0px; 
+    margin: 40px 0px 0px -20px;
+    border-right: #fb8b76 2px solid;
+}
+
+.sidebar .header-title {
+    font-size: 1.6em;
+    width: 20vw;
+}
+
+
+
+
+.active {
+    
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    padding-top: 5px;
+}
+
+.work {
+    height: 1000px;
+    width: 60vw;
+    max-width: 650px;
+    margin-left: 22vw;
+    padding: 40px 20px 0px 20px;
+    color: white;
+}
+
+.project-header {
+    font-size: 1.8em;
+}
+
+iframe {
+    display: block;
+    margin: 0px;
+    padding: 0;
+    background-color: ;
+}
+
+.active {
+    font-weight: 600;
+}

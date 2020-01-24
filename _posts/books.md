@@ -1,0 +1,9 @@
+---
+layout: page
+title:  "books"
+header: Books Stop Motion Project
+permalink: /books/
+preview-image: "../img/books-500px.jpg"
+---
+
+A combination of stop motion animation and information design, this short film displays my collection of books in various ways. The project explores the footprint left by a person's objects. Includes 55 books and over () individual photographs.
