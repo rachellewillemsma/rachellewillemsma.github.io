@@ -1,5 +1,4 @@
 ---
 title: Rachelle Willemsma Design
 layout: home
-permalink: /home/
 ---

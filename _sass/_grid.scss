@@ -13,25 +13,25 @@
     padding: 20px;
 }
 
-work-grid a img {
+.grid-image {
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
 }
 
-grid-img {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    
+.grid-image:hover {
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
 }
 
-grid-item a {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    
+
+.grid-item:hover .filter {
+    opacity: 0%;
 }
+
+
 
 .grid-item {
-    flex: 1 0 125px;
+    flex: 0 1 125px;
     
     margin-top: 0px;
     padding-top: 0px;
@@ -60,4 +60,5 @@ grid-item a {
     z-index: 1;
     top: 0;
     opacity: 20%;
+    pointer-events: none;
 }
