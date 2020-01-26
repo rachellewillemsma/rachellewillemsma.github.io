@@ -1,5 +1,5 @@
 ---
 title: Rachelle Willemsma Design
-layout: home
-permalink: /home/
+layout: about
+permalink: /about/
 ---

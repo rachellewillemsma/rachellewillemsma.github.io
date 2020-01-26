@@ -1,0 +1,34 @@
+.header-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    margin: auto;
+    width: 60vw;
+    padding: 18vh 0 5vh 0;
+    text-align: center;
+}
+
+
+
+.header-item {
+    margin: auto;
+    font-size: 1.8em;
+    font-family: $bodyfont;
+}
+
+.header-item a {
+    color: $accent2;
+}
+
+.header-item a:hover {
+    font-weight: $bold;
+}
+
+.header-title {
+    font-size: 2.1em;
+    font-family: $displayfont;
+    color: $accent1;
+}
+
+.header-title a {
+    color: $accent1;
+}

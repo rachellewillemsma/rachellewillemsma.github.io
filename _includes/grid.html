@@ -1,5 +1,7 @@
 <div class="work-grid">
-    {% for post in site.posts reversed %}
-        <div class="grid-item"><a href="{{ site.baseurl }}{{ post.title }}"><img src="{{post.preview-image}}"></a></div>
+    {% for post in site.posts %}
+        <div class="grid-item"><a href="{{ site.baseurl }}{{ post.title }}"><img src="{{post.preview-image}}"></a><div class="filter"></div></div>
     {% endfor %}
 </div>
+
+<div class="text"><img src="../img/chinese-500px.jpg"></div>

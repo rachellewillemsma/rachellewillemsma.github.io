@@ -1,0 +1,33 @@
+.layout {
+    display: flex;
+    flex-direction: row;
+    width: 85vw;
+    margin: auto;
+    height: 100%;
+}
+
+
+
+.work {
+    height: 1000px;
+    width: 60vw;
+    max-width: 650px;
+    margin-left: 22vw;
+    padding: 40px 20px 0px 20px;
+    color: $textcolour;
+}
+
+.project-header {
+    font-size: 1.8em;
+    font-weight: $bold;
+}
+
+iframe {
+    display: block;
+    margin: 0px;
+    padding: 0;
+}
+
+.work img {
+    width: 100%;
+}
