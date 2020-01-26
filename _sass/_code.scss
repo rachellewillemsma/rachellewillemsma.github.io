@@ -1,8 +1,23 @@
-html { 
+
+html {
+	box-sizing: border-box;
 }
 
+*, *:before, *:after {
+	  box-sizing: inherit;
+}
+
+body, ul {
+ margin: 0;
+ padding: 0;
+}
+
+
+
+
+
+
 body {
-    margin: 0px;
     font-family: 'Barlow';
     background-color: #222222;
 }
@@ -115,7 +130,6 @@ a {
 }
 
 .sidebar {
-    position:;
     text-align: right;
     position: fixed;
     padding: 0px 20px 0px 0px; 
@@ -131,17 +145,13 @@ a {
 
 
 
-.active {
-    
-}
-
 ul {
     padding: 0;
     list-style-type: none;
 }
 
 li {
-    padding-top: 5px;
+    padding-top: 1px;
 }
 
 .work {
@@ -161,9 +171,4 @@ iframe {
     display: block;
     margin: 0px;
     padding: 0;
-    background-color: ;
-}
-
-.active {
-    font-weight: 600;
 }

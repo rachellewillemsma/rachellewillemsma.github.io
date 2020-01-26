@@ -4,22 +4,14 @@
 		{% for post in site.posts reversed %}
 			{% if page.title == post.title %}
 			<li>
-				<a href="{{ site.baseurl }}{{ post.title }}" class="currentpage">
-					<div>
-						<p>
-							{{ post.title }}
-						</p>
-					</div>
+				<a href="{{ site.baseurl }}{{ post.permalink }}" class="currentpage">
+				    {{ post.brief-header }}
 				</a>
 			</li>
 			{% else %}
 			<li>
-				<a href="{{ site.baseurl }}{{ post.title }}">
-					<div>
-						<p>
-							{{ post.title }}
-						</p>
-					</div>
+				<a href="{{ site.baseurl }}{{ post.permalink }}">
+                    {{ post.brief-header }}
 				</a>
 			</li>
 			{% endif %}
