@@ -32,3 +32,122 @@
 .header-title a {
     color: $accent1;
 }
+
+.mobile-header-grid {
+    display: none;
+    margin: auto;
+    width: 60vw;
+    text-align: center;
+}
+
+@media only screen and (min-width: 1430px) {
+    .grid-item {
+        flex: 1 1 200px;
+    }
+    .work-grid {
+        width: 1000px;
+    }
+    .side-item {
+        font-size: 2.5em;
+    }
+    .header-title {
+        font-size: 2.8em;
+    }
+}
+
+@media only screen and (min-width: 1355px) {
+    .grid-item {
+        flex: 1 1 200px;
+    }
+    .work-grid {
+        width: 70vw;
+    }
+    .side-item {
+        font-size: 2.2em;
+    }
+    .header-title {
+        font-size: 2.5em;
+    }
+}
+
+@media only screen and (min-width: 1320px) {
+    .grid-item {
+        flex: 1 1 160px;
+    }
+    .work-grid {
+        width: 70vw;
+    }
+}
+
+@media only screen and (max-width: 1120px) {
+    .work-grid {
+        width: 70vw;
+    }
+    .side-item {
+        font-size: 1.5em;
+    }
+    .header-title {
+        font-size: 1.8em;
+    }
+        
+}
+
+
+@media only screen and (max-width: 600px) {
+    .work-grid {
+        width: 80vw;
+    }
+    
+    .header-grid {
+        grid-template-columns: 1fr;
+        width: 100vw;
+        padding: 8vh 0 0 0;
+    }
+    .side-item {
+        display: none;
+    }
+    .header-title {
+        display: block;
+    }
+    .mobile-header-grid {
+        display: block;
+        font-size: 0.8em;
+        color: $accent2;
+        padding-bottom: 2vh;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .grid-item {
+        flex: 1 1 80px;
+    }
+    .work-grid {
+        padding: 15px;
+    }
+    
+    .header-title {
+        font-size: 1.35em;
+    }
+    
+    .mobile-header-grid {
+        font-size: 0.75em;
+    }
+}
+
+@media only screen and (max-width: 242px) {
+    .grid-item {
+        flex: 1 1 58px;
+    }
+    .work-grid {
+        padding: 10px;
+    }
+    
+    .header-title {
+        font-size: 1em;
+    }
+    
+    .mobile-header-grid {
+        font-size: 0.5em;
+    }
+
+}

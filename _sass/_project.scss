@@ -9,7 +9,6 @@
 
 
 .work {
-    height: 1000px;
     width: 60vw;
     max-width: 650px;
     margin-left: 22vw;
@@ -30,4 +29,10 @@ iframe {
 
 .work img {
     width: 100%;
+}
+
+@media only screen and (max-width: 820px) {
+    .sidebar {
+        display: none;
+    }
 }
