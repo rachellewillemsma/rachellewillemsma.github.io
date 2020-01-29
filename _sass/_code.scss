@@ -18,7 +18,7 @@ body, ul {
 
 body {
     font-family: $bodyfont;
-    font-weight: 300;
+    font-weight: $notbold;
     background-color: $bgcolour;
 }
 
@@ -35,4 +35,8 @@ body {
 a {
     text-decoration: none;
     color: $textcolour;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: $notbold;
 }

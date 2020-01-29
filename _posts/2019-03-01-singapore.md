@@ -7,4 +7,8 @@ permalink: /singapore/
 preview-image: "../img/singapore-500px.jpg"
 ---
 
-Speculative bilingual program for the 2019 Singapore National Day Parade. Includes typographic cover and 8 inner pages.
+#### Speculative bilingual program for the 2019 Singapore National Day Parade. Includes typographic cover and 8 inner pages.
+
+##### Front and back cover
+
+##### Inside spread
