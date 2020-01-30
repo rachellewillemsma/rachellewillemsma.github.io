@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Rachelle Willemsma Design | Shadowbox"
+title:  "shadowbox"
 header: Tree Ring–Inspired Shadowbox
 brief-header: Shadowbox
 permalink: /shadowbox/
