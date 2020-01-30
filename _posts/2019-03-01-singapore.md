@@ -13,6 +13,6 @@ preview-image: "../img/singapore-500px.jpg"
 
 ##### Front and back cover
 
-![Singapore National Day Parade Spread](../img/singapore-inside.jpg)
+![Singapore National Day Parade Pages](../img/singapore-inside.jpg)
 
-##### Inside spread
+##### Some inside pages
