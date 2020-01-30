@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "endangered"
+title:  "Rachelle Willemsma Design | Endangered Languages"
 header: Endangered Languages Pamphlet
 brief-header: Endangered Languages
 permalink: /endangered/
