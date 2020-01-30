@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "typography"
+title:  "Rachelle Willemsma Design | Typographic Poster"
 header: Typographic Poster in English and Chinese
 brief-header: Typographic Poster
 permalink: /typography/
