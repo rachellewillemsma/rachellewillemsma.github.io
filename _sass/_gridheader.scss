@@ -104,25 +104,45 @@
 @media only screen and (max-width: 980px) {
     .grid-item {
         flex: 1 1 110px;
-    }    
+    }
+    .header-grid {
+        padding: 16vh 0 4vh 0;
+    }
 }
 
 @media only screen and (max-width: 940px) {
     .grid-item {
         flex: 1 1 105px;
-    }    
+    }
+    .header-grid {
+        width: 72vw;
+    }
 }
 
 @media only screen and (max-width: 830px) {
     .grid-item {
         flex: 1 1 90px;
-    }    
+    }
+    .header-grid {
+        width: 70vw;
+    }
+    .side-item {
+        font-size: 1.3em;
+    }
+    .header-title {
+        font-size: 1.55em;
+    }
 }
 
 @media only screen and (max-width: 705px) {
     .grid-item {
         flex: 1 1 150px;
-    }    
+    }
+    .header-grid {
+        padding: 10vh 0 2vh 0;
+        width: 60vw;
+    }
+    
 }
 
 @media only screen and (max-width: 615px) {
