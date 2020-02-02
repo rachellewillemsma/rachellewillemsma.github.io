@@ -61,12 +61,12 @@ h5 {
     width: 70vw;
     margin: auto;
     padding-top: 2vh;
-    padding-bottom: 4vh;
+    padding-bottom: 7vh;
 }
 
 .previous-next-nav a {
     display: block;
-    color: $accent2;
+    color: $accent1;
     max-width: 50%;
 }
 
@@ -111,5 +111,20 @@ h5 {
         margin-left: 0;
         padding: 10vh 0 0 0;
     }
+    .project-header {
+        font-size: 1.5em;
+    }
+    
+    .work h4 {
+        font-size: 0.95em;
+    }
+    
+    .work h5 {
+        font-size: 0.8em;
+    }
+    
+    .work {
+        padding: 8vh 0 0 0;
+    }
+    
 }
-
