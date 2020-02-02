@@ -18,6 +18,19 @@
             <p class="project-description">{{ content }}</p>
         </div>
         
+        
+        
+        
+    </div>
+    
+    
+    <div class="previous-next-nav">
+        {% if page.next.url %}
+            <a class="next" href="{{page.next.url}}">{{page.next.brief-header}} &raquo;</a>
+        {% endif %} 
+        {% if page.previous.url %}
+            <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.brief-header}}</a>
+        {% endif %}
     </div>
     
 </body>

@@ -54,6 +54,47 @@ h5 {
 
 
 
+.previous-next-nav {
+    font-size: 0.9em;
+    display: block;
+    overflow: hidden;
+    width: 70vw;
+    margin: auto;
+    padding-top: 2vh;
+    padding-bottom: 4vh;
+}
+
+.previous-next-nav a {
+    display: block;
+    color: $accent2;
+    max-width: 50%;
+}
+
+.previous-next-nav a:hover {
+    font-weight: $bold;
+}
+
+.previous-next-nav .prev {
+    text-align: left;
+    float: left;
+}
+
+.previous-next-nav .next {
+    text-align: right;
+    float: right;
+}
+
+
+
+
+
+@media only screen and (min-width: 820px) {
+    
+    .previous-next-nav {
+        display: none;
+    }
+}
+
 @media only screen and (max-width: 820px) {
     
     .sidebar {

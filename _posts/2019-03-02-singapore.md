@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "singapore"
+title:  "Rachelle Willemsma Design | Singapore"
 header: Singapore National Day Parade Program
 brief-header: Singapore National Day
 permalink: /singapore/
