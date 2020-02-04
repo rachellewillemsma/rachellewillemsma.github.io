@@ -85,7 +85,11 @@
     }
 }
 
-
+@media only screen and (max-width: 1430px) {
+    .header-grid {
+        padding: 14vh 0 5vh 0;
+    }
+}
 
 
 @media only screen and (max-width: 1120px) {
