@@ -21,6 +21,9 @@
     font-weight: $bold;
 }
 
+
+
+
 iframe {
     position: absolute;
     
@@ -38,6 +41,9 @@ iframe {
     
 }
 
+
+
+
 .work img {
     width: 100%;
 }
@@ -50,6 +56,21 @@ h5 {
     text-align: center;
     margin-top: -5px;
     margin-bottom: 30px;
+}
+
+
+.about-back {
+    font-size: 0.9em;
+    display: block;
+    overflow: hidden;
+    width: 70vw;
+    margin: auto;
+    padding-top: 2vh;
+    padding-bottom: 7vh;
+}
+
+.about-back a {
+    color: $accent1;
 }
 
 
@@ -88,9 +109,12 @@ h5 {
 
 
 
-@media only screen and (min-width: 820px) {
+@media only screen and (min-width: 821px) {
     
     .previous-next-nav {
+        display: none;
+    }
+    .about-back {
         display: none;
     }
 }
