@@ -1,13 +1,13 @@
 ---
 layout: page
-title:  "endangered"
+title:  "Rachelle Willemsma | Endangered Languages"
 header: Endangered Languages Pamphlet
 brief-header: Endangered Languages
 permalink: /endangered/
 preview-image: "../img/endangered-500px.jpg"
 ---
 
-#### My interest in linguistics has inspired many of my projects, including this pamphlet about endangered languages. Personally researched, written and designed. Measures (dimensions) unfolded.
+#### My interest in linguistics has inspired many of my projects, including this pamphlet about endangered languages. Personally researched, written and designed. Measures 30″×20″ unfolded.
 
 ![Endangered Languages Inside View](../img/endangered2.jpg)
 ![Endangered Languages Inside View](../img/endangered1.jpg)

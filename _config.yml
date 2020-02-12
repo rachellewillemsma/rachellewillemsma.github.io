@@ -28,6 +28,7 @@ url: "https://willemsma.design" # the base hostname & protocol for your site, e.
 sass:
  style: compressed
 markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
 
