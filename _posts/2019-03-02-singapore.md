@@ -7,7 +7,7 @@ permalink: /singapore/
 preview-image: "../img/singapore-500px.jpg"
 ---
 
-#### Bilingual program for the 2019 Singapore National Day Parade. Includes typographic cover and 8 inner pages. Student work.
+#### Speculative bilingual program for the 2019 Singapore National Day Parade. The cover design references the Marina Bay Floating Platform, where the event usually takes place. Includes typographic cover and 8 inner pages.
 
 ![Singapore National Day Parade Cover](../img/singapore-cover.jpg)
 

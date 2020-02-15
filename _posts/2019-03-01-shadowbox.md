@@ -7,7 +7,7 @@ permalink: /shadowbox/
 preview-image: "../img/shadowbox-500px.jpg"
 ---
 
-#### This eight-layered 3D shadowbox was inspired by the patterns found in tree rings and topographic maps. Lasercut. Assembled by hand without the use of tape or glue.
+#### This eight-layered 3D shadowbox recalls the patterns found in tree rings and topographic maps. Lasercut cardstock. Assembled by hand without the use of tape or glue.
 
 ![Shadowbox Sketches](../img/shadowbox-sketch.jpg)
 
