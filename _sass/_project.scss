@@ -161,3 +161,28 @@ h5 {
     }
     
 }
+
+@media only screen and (max-width: 590px) {
+    
+    .layout {
+        width: 85vw;
+    }
+    
+    .project-header {
+        font-size: 1.3em;
+    }
+    
+    .work h4 {
+        font-size: 0.8em;
+    }
+    
+    .work h5 {
+        font-size: 0.75em;
+    }
+    
+    .about-back, .previous-next-nav {
+        width: 85vw;
+        font-size: 0.75em;
+    }
+    
+}
