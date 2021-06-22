@@ -13,6 +13,8 @@
     margin: auto;
     font-size: 1.8em;
     font-family: $bodyfont;
+    display: flex; 
+    justify-content: space-evenly;
 }
 
 .header-item a {
