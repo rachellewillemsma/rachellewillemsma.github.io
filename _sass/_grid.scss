@@ -21,6 +21,7 @@
 .grid-image:hover {
     -webkit-filter: grayscale(0%);
     filter: grayscale(0%);
+    transition-duration: 0s;
 }
 
 
