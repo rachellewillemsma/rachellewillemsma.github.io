@@ -27,10 +27,9 @@ li {
 
 .currentpage {
     font-weight: $bold;
-    font-style: italic;
+    color: $accent1;
 }
 
 nav ul a:hover {
     font-weight: $bold;
-    font-style: italic;
 }
