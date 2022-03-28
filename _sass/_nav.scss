@@ -1,4 +1,5 @@
 .sidebar {
+    font-size: 1.1*$sideitemsize;
     text-align: right;
     position: fixed;
     padding: 0px 20px 0px 0px; 
@@ -7,8 +8,9 @@
 }
 
 .sidebar .header-title {
-    font-size: 1.6em;
+    font-size: 1.9*$headersize;
     width: 20vw;
+    padding: 0px 0px 1.5vh 0px;    
 }
 
 
