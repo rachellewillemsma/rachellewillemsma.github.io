@@ -7,7 +7,7 @@ permalink: /ethglobal/
 preview-image: "../img/ethglobal/hackmoney-500px.png"
 ---
 
-#### For over a year, I have worked part-time as a designer for <a href="https://ethglobal.co/" target="_blank">ETHGlobal</a>, an organization which hosts some of the world’s largest Ethereum-focused hackathons. Projects generally include creating and expanding branding for hackathon events, and on occasion I have also offered design services to event participants.
+#### For over two years, I have worked part-time as a designer for <a href="https://ethglobal.co/" target="_blank">ETHGlobal</a>, an organization which hosts some of the world’s largest Ethereum-focused hackathons. Projects generally include creating and expanding branding for hackathon events, and on occasion I have also offered design services to event participants.
 
 ![ETHGlobal HackMoney Logo](../img/ethglobal/ethglobal-logo.png)
 
