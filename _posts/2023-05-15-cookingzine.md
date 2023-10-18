@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  "Rachelle Willemsma | Cooking Zine"
-header: Good Recipes Zine (Egg Edition)
-brief-header: Cooking Zine
+header: Egg Cooking Zine
+brief-header: Egg Cooking Zine
 permalink: /cookingzine/
-preview-image: "../img/cookingzine/cookingzine-500px.jpg"
+preview-image: "../img/cookingzine/cookingzine-500px.jpeg"
 ---
 
 #### Zines are smaller-scale magazines, usually self-published and containing personal or niche content. While I've held an interest in zines for some time, this was my first attempt at at publishing one myself.
@@ -13,7 +13,7 @@ preview-image: "../img/cookingzine/cookingzine-500px.jpg"
 
 ### Concept
 
-#### I was inspired by <a href="https://www.theinc.ca/wp-content/uploads/2022/01/Menezes_Depression_Cooking_Zine.pdf" target="_blank">depression cooking</a> by Sonali Menezes, since it resonated a lot with my own cooking experience. With the help of my good friend Manola Yvonet, I set out to make my own cookbook zine, which I hope would likewise help those who have had similar difficulties.
+#### I was inspired by <a href="https://www.theinc.ca/wp-content/uploads/2022/01/Menezes_Depression_Cooking_Zine.pdf" target="_blank">depression cooking</a> by Sonali Menezes, since it resonated a lot with my own cooking experience. With the help of my good friend, who created the illustrations, I set out to make my own cookbook zine, which I hope would likewise help those who have had similar difficulties.
 
 ![Zine Page About Eggs](../img/cookingzine/cookingzine-eggs.png)
 
