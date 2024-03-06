@@ -13,7 +13,7 @@ preview-image: "../img/pathfinder/pathfinder-500px.jpeg"
 
 ### Background
 
-#### The idea for this project emerged when my friend showed me this overview of Pathfinder 2E classes, created by reddit user Rednidedi. Although I have not played Pathfinder myself, I found myself intrigued by the information displayed in this chart. However, I felt that the presentation could be improved. I had a sudden urge to put my own spin on the project, completing the first draft of my own version within a single day.
+#### The idea for this project emerged when my friend showed me <a href="https://www.reddit.com/r/Pathfinder2e/comments/ts8m4v/i_tried_summarizing_all_classes_to_help_newer/" target="_blank">this overview</a> of Pathfinder 2E classes, created by reddit user Rednidedi. Although I have not played Pathfinder myself, I found myself intrigued by the information displayed in this chart. However, I felt that the presentation could be improved. I had a sudden urge to put my own spin on the project, completing the first draft of my own version within a single day.
 
 ![Original Chart by Rednidedi](../img/pathfinder/pathfinder-inspiration.png)
 
@@ -32,7 +32,7 @@ preview-image: "../img/pathfinder/pathfinder-500px.jpeg"
 
 ### Reception & Updated Version
 
-#### To my surprise, my infographic gained huge popularity on the Pathfinder subreddit. It is now the most popular visualization of the game's classes, and the top result on Google Images. A year after my original visualization, there was an update to the game. The update included adding a new player class, the thaumaturge, so I decided to update my infographic to reflect this. Adding a new class was easier said than done, since my original layout had not accounted for changes. I also took this opportunity to make corrections that were pointed out to me by viewers on the subreddit. I also elected to create a version with a white background for legibility and printability reasons. Unfortunately, the game has had yet another update since then, so I will have to rethink my layout once again! Hopefully, I will be able to future-proof the design this time.
+#### To my surprise, my infographic gained huge popularity on the Pathfinder <a href="https://www.reddit.com/r/Pathfinder2e/comments/12147av/pathfinder_class_summaries_for_new_players_pretty/" target="_blank">subreddit</a>. It is now the most popular visualization of the game's classes, and the top result on Google Images. A year after my original visualization, there was an update to the game. The update included adding a new player class, the thaumaturge, so I decided to update my infographic to reflect this. Adding a new class was easier said than done, since my original layout had not accounted for changes. I also took this opportunity to make corrections that were pointed out to me by viewers on the subreddit. I also elected to create a version with a white background for legibility and printability reasons. Unfortunately, the game has had yet another update since then, so I will have to rethink my layout once again! Hopefully, I will be able to future-proof the design this time.
 
 ![Updated Infographic](../img/pathfinder/pathfinder-infographic-update.png)
 
