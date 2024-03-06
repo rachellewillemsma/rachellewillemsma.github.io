@@ -4,7 +4,7 @@ title:  "Rachelle Willemsma | Pathfinder Infographic"
 header: Pathfinder 2E Classes Infographic
 brief-header: Pathfinder Infographic
 permalink: /pathfinder/
-preview-image: "../img/pathfinder/pathfinder-500px.jpeg"
+preview-image: "../img/pathfinder/pathfinder-500px.png"
 ---
 
 #### This infographic is an overview of character classes in the tabletop roleplaying game Pathfinder 2E. While I myself have not played this game, I found that visualizing the differences between different character types made for a fun information design challenge.
