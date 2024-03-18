@@ -17,6 +17,8 @@ preview-image: "../img/pathfinder/pathfinder-500px.png"
 
 ![Original Chart by Rednidedi](../img/pathfinder/pathfinder-inspiration.png)
 
+##### Original Chart by Rednidedi
+
 ### Changes
 
 #### While on first glance, the information in the original chart appeared to be well organized, a closer look showed some missed opportunities. For example, the classes are ordered in alphabetical order, which is not a bad choice in isolation. However, I believed a more intuitive choice would be group them based on similarity. In this case, I grouped the classes by their use of magic, since this difference heavily affects playstyle. Another benefit to grouping the classes was breaking up the repetitive design of the original. Dividing the list into smaller sections makes the information feel less overwhelming to take in.
@@ -29,6 +31,7 @@ preview-image: "../img/pathfinder/pathfinder-500px.png"
 
 ![Icons for Primary Abilities and Magic Schools](../img/pathfinder/pathfinder-icons.png)
 
+##### Icons for primary abilities and magic schools
 
 ### Reception & Updated Version
 
@@ -45,5 +48,6 @@ preview-image: "../img/pathfinder/pathfinder-500px.png"
 
 ![Updated Infographic](../img/pathfinder/pathfinder-pdf-classes.png)
 
+##### Booklet version
 
 <br>
